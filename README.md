@@ -17,7 +17,6 @@ A very naive idea of mine was to simply plot the y values as shown below.
 
 By soon I realized that it won't just work as it doesn't give much information about tones. While going through different articles for visualizing music and decided to go for melspectograms(luckily having the same idea as mine),Fourier Transform,Spectrogram,Chroma features,Box Plot for Genres Distributions, Correlation Heatmap etc.
 
-![image](https://github.com/nisarga937/Voice_Claaification_ML/assets/150679240/498c3365-c258-4d8d-8833-ee35618e4077)
 ![image](https://github.com/nisarga937/Voice_Claaification_ML/assets/150679240/637a3850-8e53-4026-88fa-167481c58935)
 ![image](https://github.com/nisarga937/Voice_Claaification_ML/assets/150679240/77988a1d-56d4-4897-b1de-81b0998d2bad)
 
