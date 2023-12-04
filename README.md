@@ -9,7 +9,7 @@ Features like  zero-crossing rate, power,tempo, beats, mfccs, loudness etc. are 
 2) Begining level - Deep Learning :-
 Mel Spectrogram images are formed from audio files which are very strong features to discriminate the properties of two audio files. So, these images are feed into CNN model for classification into 10 genres.
 # Raw data:
-Download GTZAN Dataset from: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification  
+Since the datasets is too big, we have refrained from uploading it to the repository, you can find it in - GTZAN Dataset from: https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification  
 # Potray Music as Image
 A very naive idea of mine was to simply plot the y values as shown below.
 
