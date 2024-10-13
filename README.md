@@ -1,6 +1,6 @@
 # Voice_Classification_ML
 # Beginning
-This project started as a team project with an aim to learn different machine learning models. The initial problem statement was to  Built a python application that analyses the sentiment behind the tone of the voice. Different features like tempo, beats, stft, mfccs, etc were extracted using Librosa from the GTZAN Genre Collection dataset.This project uses Machine Learning and  basic Deep Learning techniques.
+The initial problem statement was to  Built a python application that analyses the sentiment behind the tone of the voice. Different features like tempo, beats, stft, mfccs, etc were extracted using Librosa from the GTZAN Genre Collection dataset.This project uses Machine Learning and  basic Deep Learning techniques.
 # What next?
 After this project, I went on learning more about computer vision and deep learning. Reading more and more about it, I started thinking if I could apply CNNs on the music data. Also I hoped that transfer learning would help me attain accuracy closer to the State of the art models on GTZAN dataset.
 # Approach
@@ -24,8 +24,7 @@ These looked quite promising to me.
 
 # Conclusion
 In essence, this project has successfully demonstrated the viability of using machine learning for music genre classification. The findings and insights gained contribute not only to the understanding of audio feature importance but also open avenues for future research and development in the field of music informatics.
-
-I extend my heartfelt thanks to Compsoft Technologies and TIE for the incredible opportunity to contribute to this impactful project. This experience has been instrumental in refining my skills and gaining a strong foothold in machine learning with Python. 
+This experience has been instrumental in refining my skills and gaining a strong foothold in machine learning with Python. 
 
 
 
